@@ -42,7 +42,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>deveapp</finalName>
+		<finalName>deve</finalName>
 	</build>
 
 </project>
